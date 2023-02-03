@@ -3,9 +3,6 @@ layout: single
 title: "Mark down 수식 예시 정리"
 ---
 
-
-
-
 # Mark down 수식 예시 정리
 
 ###### 참고 포스트
