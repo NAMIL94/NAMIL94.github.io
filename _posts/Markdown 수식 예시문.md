@@ -1,6 +1,6 @@
 ---
 layout: single
-title:"Mark down 수식 예시 정리"
+title: "Mark down 수식 예시 정리"
 ---
 
 
