@@ -1,0 +1,8 @@
+```yaml
+layout: single
+title: "이미지 첨부 테스트"
+categories: coding_test
+tag: [python, blog, jekyll]
+```
+
+###### ㅇㅇㅇㅇ
